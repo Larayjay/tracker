@@ -9,4 +9,4 @@ build/
 # local data
 tracker.csv
 tracker.log
-*.png
+#*.png
