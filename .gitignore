@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+
+# build artifacts
+tracker
+build/
+*.o
+
+# local data
+tracker.csv
+tracker.log
+*.png
